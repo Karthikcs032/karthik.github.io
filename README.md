@@ -1,4 +1,4 @@
 # karthik.github.io
 
 
-THis is our domain for testing
+This is our domain for testing
